@@ -37,7 +37,8 @@ math.html
 <head>
 <meta charset='utf-8'>
 <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-<title>Area of Surface</title>
+<title>ss="box">
+<h1>Surface Area of Right cylinder</title>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
 <style type="text/css">
 body {
@@ -71,7 +72,8 @@ h1 {
 <body style="background-color:lightblue;">
 <div class="edge">
     <div class="box">
-        <h1>Area of Surface</h1>
+        <h1>ss="box">
+        <h1>Surface Area of Right cylinder</h1>
         <h3>MADESWARAN (212223040106)</h3>
         <form method="POST">
             {% csrf_token %}
