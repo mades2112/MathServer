@@ -96,7 +96,7 @@ h1 {
 </html>
 ``` 
  views.py
- ```
+```
  from django.shortcuts import render
 def cylarea(request):
     context={}
